@@ -1,0 +1,2 @@
+this is example of setting up an erlang cowboy http server with tls certificate 
+enter hello_erlang and run 'make run' in the terminal and enter https://localhost:8080/info or https://localhost:8080 to see the results

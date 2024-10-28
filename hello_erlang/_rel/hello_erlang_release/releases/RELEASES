@@ -1,0 +1,15 @@
+%% coding: utf-8
+[{release,"hello_erlang_release","1","15.1.2",
+          [{kernel,"10.1.1","./lib/kernel-10.1.1"},
+           {stdlib,"6.1.2","./lib/stdlib-6.1.2"},
+           {crypto,"5.5.1","./lib/crypto-5.5.1"},
+           {cowlib,"2.12.1","./lib/cowlib-2.12.1"},
+           {asn1,"5.3.1","./lib/asn1-5.3.1"},
+           {public_key,"1.16.3","./lib/public_key-1.16.3"},
+           {ssl,"11.2.4","./lib/ssl-11.2.4"},
+           {ranch,"1.8.0","./lib/ranch-1.8.0"},
+           {cowboy,"2.11.0","./lib/cowboy-2.11.0"},
+           {hello_erlang,"rolling","./lib/hello_erlang-rolling"},
+           {sasl,"4.2.2","./lib/sasl-4.2.2"},
+           {runtime_tools,"2.1.1","./lib/runtime_tools-2.1.1"}],
+          permanent}].
